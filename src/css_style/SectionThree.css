@@ -1,0 +1,25 @@
+.search1{
+   width: 40%;
+   text-align: center;
+   padding: 10px 20px ;
+   
+}
+.inputDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardReal{
+  border: 1px solid beige;
+  width: 100px;
+  height: 100px;
+  padding: 30px;
+}
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+padding: 50px;
+
+}
